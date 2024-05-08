@@ -1,0 +1,30 @@
+{
+  "username" : "user",
+  "maxHistory" : 0,
+  "positions" : 50,
+  "ranging" : true,
+  "locked" : false,
+  "deviceId" : "34.2181,-85.7451",
+  "monitoring" : 1,
+  "tid" : "",
+  "cmd" : true,
+  "_type" : "configuration",
+  "allowRemoteLocation" : true,
+  "pubTopicBase" : "mqtts:\/\/user@ho mqtts:\/\/user@host:8883 c0 k60 as 34.2181,-85.7451 protocol:4 st:8883 c0 k60 as 34.2181,-85.7451 protocol:4",
+  "encryptionKey" : "",
+  "url" : "",
+  "ignoreStaleLocations" : 0,
+  "waypoints" : [
+
+  ],
+  "usePassword" : true,
+  "httpHeaders" : "",
+  "auth" : true,
+  "locatorInterval" : 180,
+  "extendedData" : true,
+  "ignoreInaccurateLocations" : 0,
+  "locatorDisplacement" : 200,
+  "mode" : 3,
+  "password" : "pass",
+  "downgrade" : 0
+}
